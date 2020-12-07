@@ -8,3 +8,11 @@
 * Normalização e padronização dos dados
 * Machine learning
 * Otimização dos algoritmos de ML
+
+## SantanderCustomerSatisfaction: Previsão de Satatisfação dos Clientes
+
+* Pré-processamento dos dados 
+* Normalização e padronização dos dados
+* Machine learning
+* Otimização dos algoritmos de ML
+* Balanceamento dos dados com oversample e undersample
