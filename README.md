@@ -1,6 +1,6 @@
 # Portfólio
 
-## PredDiabetes: Previção de Diabetes com Base em Medidas de Diagnóstico.
+## PredDiabetes: Previção de Diabetes com Base em Medidas de Diagnóstico
 
 * Análise exploratória dos dados
 * Tratamento de missing values
