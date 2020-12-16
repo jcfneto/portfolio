@@ -1,8 +1,8 @@
 # Portfólio
 
-## PredDiabetes: Predição de Diabetes com Base em Medidas de Diagnóstico.
+## PredDiabetes: Previção de Diabetes com Base em Medidas de Diagnóstico.
 
-* Análise Exploratória dos dados
+* Análise exploratória dos dados
 * Tratamento de missing values
 * Feature selection
 * Normalização e padronização dos dados
@@ -16,3 +16,12 @@
 * Machine learning
 * Otimização dos algoritmos de ML
 * Balanceamento dos dados com oversample e undersample
+
+## ChurnCustomer-Telecom: Previsão de Perdas de Clientes (churn) em uma Operadora de Telecom
+
+* Análise exploratória dos dados
+* Feature extraction
+* Feature selection
+* Normalização e padronização dos dados
+* Machine learning
+* Otimização dos algoritmos de ML
